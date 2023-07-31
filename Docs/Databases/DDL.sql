@@ -1,5 +1,5 @@
 -- drop schema db_yojulab;
-CREATE SCHEMA db_yojulab;
+-- CREATE SCHEMA db_yojulab;
 
 use db_yojulab;
 
